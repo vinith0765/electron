@@ -1,0 +1,14 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "score app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "vineet",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^18.0.3"
+  }
+}
